@@ -38,10 +38,8 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
 ## Downloads
 [Github](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed) is the only source where you can get official SFPS MODULE information and downloads.
 
- [![SFPS v3.5.5](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/blob/main/docs/assets/FAFA_FIFI_LALA_LULU_LELE_MIMI_PEPA_GARI_NAWI_QOA_PEA_LAW_NEC_XQAS_OUYT.svg)](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v3.5.5)
-
-
- [![SFPS v1.0.0](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/bc76ae65-2a87-47eb-9b77-fc0d085b5fcb)
+ [![SFPS v3.5.5](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/blob/main/docs/assets/FAFA_FIFI_LALA_LULU_LELE_MIMI_PEPA_GARI_NAWI_QOA_PEA_LAW_NEC_XQAS_OUYT.svg)](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v3.5.5) [![SFPS v2.5.0](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/blob/main/docs/assets/FAFA_FIFI_LALA_LULU_LELE_MIMI_PEPA_GARI_NAWI_QOA_PEA_LVW_NEC_XQAS_OUYT.svg)
+](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v2.5.0) [![SFPS v1.0.0](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/blob/main/docs/assets/FAFA_FIFI_LALA_LULU_LELE_MIMI_PEPA_GARI_NAWI_QOA_PEA_LCW_NEC_XQAS_OUYT.svg)
 ](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v1.0.0)
 
 ## Useful Links
