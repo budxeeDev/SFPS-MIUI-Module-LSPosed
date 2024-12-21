@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="35" role="img" aria-label="SFPS MIUI: v1.0.0">
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="25" role="img" aria-label="SFPS MIUI: V1.0.0">
   <title>SFPS MIUI : V1.0.0</title>
   <linearGradient id="bg" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
-  <rect rx="5" width="160" height="35" fill="#555"/>
-  <rect rx="5" x="100" width="60" height="35" fill="#213555"/>
-  <rect rx="5" width="160" height="35" fill="url(#bg)"/>
-  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="18">
-    <text x="50" y="25" fill="#010101" fill-opacity=".3">SFPS MIUI</text>
-    <text x="50" y="24">SFPS MIUI</text>
-    <text x="130" y="25" fill="#010101" fill-opacity=".3">V1.0.0</text>
-    <text x="130" y="24">V1.0.0</text>
+  <rect rx="5" width="105" height="25" fill="#555"/>
+  <rect rx="0" x="60" width="40" height="25" fill="#213555"/>
+  <rect rx="5" width="100" height="25" fill="url(#bg)"/>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10">
+    <text x="30" y="17" fill="#010101" fill-opacity=".3">SFPS MIUI</text>
+    <text x="30" y="17">SFPS MIUI</text>
+    <text x="80" y="17" fill="#010101" fill-opacity=".3">V1.0.0</text>
+    <text x="80" y="17">V1.0.0</text>
   </g>
 </svg>
