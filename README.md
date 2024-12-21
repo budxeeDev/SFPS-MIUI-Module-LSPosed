@@ -1,6 +1,7 @@
 ![logo](docs/images/logo.png)
 
-![download](https://img.shields.io/badge/dynamic/json?label=downloads&query=$.0.assets[0].download_count&url=https://api.github.com/repos/budxeeDev/SFPS-MIUI-Module-LSPosed/releases&style=for-the-badge&labelWidth=100)
+<img alt="download_progres" src="https://img.shields.io/badge/dynamic/json?label=downloads&query=$.0.assets[0].download_count&url=https://api.github.com/repos/budxeeDev/SFPS-MIUI-Module-LSPosed/releases&color=red" style="width: 150px; height: auto;">
+
 ## Introduction
 MIUI SFPS module for rooted Android 
 
@@ -41,7 +42,7 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
 ](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v2.5.0)
 
 
-  [![SFPS v1.0.0](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/bc76ae65-2a87-47eb-9b77-fc0d085b5fcb)
+ [![SFPS v1.0.0](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/assets/143707720/bc76ae65-2a87-47eb-9b77-fc0d085b5fcb)
 ](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/releases/tag/v1.0.0)
 
 ## Useful Links
