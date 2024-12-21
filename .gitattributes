@@ -1,0 +1,3 @@
+*.txt linguist-detectable=false
+*.html linguist-language=HTML
+*.py linguist-language=Python
