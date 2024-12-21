@@ -1,6 +1,6 @@
 ![logo](docs/images/logo.png)
 
-
+![download](https://img.shields.io/badge/dynamic/json?label=downloads&query=$.0.assets[0].download_count&url=https://api.github.com/repos/budxeeDev/SFPS-MIUI-Module-LSPosed/releases)
 ## Introduction
 MIUI SFPS module for rooted Android 
 
