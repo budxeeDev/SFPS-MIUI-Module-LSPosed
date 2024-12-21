@@ -20,9 +20,9 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
  - device must be (ROOT)
 
 ## Screenshot
- - [`preview game mobile legends`](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-ml.jpg)
- - [`preview game free fire`](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-ff.jpg)
- - [`preview module`](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-module.jpg)
+ - [`preview game mobile legends`](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-ml.jpg)
+ - [`preview game free fire`](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-ff.jpg)
+ - [`preview module`](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/tree/main/docs/images/ss-module.jpg)
    
  ## How to install
  - First install LSPosed
@@ -36,7 +36,7 @@ The MIUI SFPS module is an LSPosed module, meaning it can only be activated in t
  - Finally restart your device!! donee
 
 ## Downloads
-[Github](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed) is the only source where you can get official SFPS MODULE information and downloads.
+[Github](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed) is the only source where you can get official SFPS MODULE information and downloads.
 
 Download Link. Click the icon below to download SFPS MIUI apk.
 
@@ -46,8 +46,8 @@ Download Link. Click the icon below to download SFPS MIUI apk.
 
 ## Useful Links
 
-- [Bug Reports](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/issues/1)
-- [SFPS MODULE Documentation](https://github.com/axxescript/SFPS-MIUI-Module-LSPosed/)
+- [Bug Reports](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/issues/1)
+- [SFPS MODULE Documentation](https://github.com/budxeeDev/SFPS-MIUI-Module-LSPosed/)
 
 ## License
 
