@@ -7,6 +7,8 @@ MIUI SFPS module for rooted Android
 
 The MIUI SFPS module is an LSPosed module, meaning it can only be activated in the LSPosed application
 
+Webpage Alternatives: [https://budxeedev.github.io/SFPS-MIUI-Module-LSPosed](https://budxeedev.github.io/SFPS-MIUI-Module-LSPosed?=#intro)
+
 ## Benefits of modules
 - Can stabilize fps when playing games
 - Improve cellphone performance
