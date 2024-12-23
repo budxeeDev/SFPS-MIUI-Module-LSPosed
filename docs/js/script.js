@@ -1,1 +1,99 @@
-AOS.init(),AOS.init({disable:!1,startEvent:"DOMContentLoaded",initClassName:"aos-init",animatedClassName:"aos-animate",useClassNames:!1,disableMutationObserver:!1,debounceDelay:50,throttleDelay:99,offset:120,delay:0,duration:400,easing:"ease",once:!1,mirror:!1,anchorPlacement:"top-bottom"}),particlesJS("particles-js",{particles:{number:{width:2,value:500,density:{enable:!0,value_area:800}},color:{value:"#b0d8f0"},shape:{type:"triangle",stroke:{width:0,color:"#c29f04"},polygon:{nb_sides:10}},opacity:{value:.3,random:!0},size:{value:1,random:!1},line_linked:{enable:!1,distance:150,color:"#00effa",opacity:.1,width:5},move:{enable:!0,speed:1,direction:"none",random:!1,straight:!1,out_mode:"out",bounce:!1}},interactivity:{detect_on:"canvas",events:{onhover:{enable:!0,mode:"repulse"},onclick:{enable:!0,mode:"push"},resize:!0},modes:{repulse:{distance:550},push:{particles_nb:5}}},retina_detect:!0});
+AOS.init();
+
+// You can also pass an optional settings object
+// below listed default settings
+AOS.init({
+  // Global settings:
+  disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+  startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+  initClassName: 'aos-init', // class applied after initialization
+  animatedClassName: 'aos-animate', // class applied on animation
+  useClassNames: false, // if true, will add content of `data-aos` as classes on scroll
+  disableMutationObserver: false, // disables automatic mutations' detections (advanced)
+  debounceDelay: 50, // the delay on debounce used while resizing window (advanced)
+  throttleDelay: 99, // the delay on throttle used while scrolling the page (advanced)
+  
+
+  // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
+  offset: 120, // offset (in px) from the original trigger point
+  delay: 0, // values from 0 to 3000, with step 50ms
+  duration: 400, // values from 0 to 3000, with step 50ms
+  easing: 'ease', // default easing for AOS animations
+  once: false, // whether animation should happen only once - while scrolling down
+  mirror: false, // whether elements should animate out while scrolling past them
+  anchorPlacement: 'top-bottom', // defines which position of the element regarding to window should trigger the animation
+
+});
+
+particlesJS('particles-js', {
+  particles: {
+    number: {
+      width: 2,
+      value: 500, // Jumlah partikel
+      density: {
+        enable: true,
+        value_area: 800
+      }
+    },
+    color: {
+      value: "#b0d8f0" // Warna partikel
+    },
+    shape: {
+      type: "triangle", // Bentuk partikel (circle, edge, triangle, dll.)
+      stroke: {
+        width: 0,
+        color: "#c29f04"
+      },
+      polygon: {
+        nb_sides: 10
+      }
+    },
+    opacity: {
+      value: 0.3,
+      random: true
+    },
+    size: {
+      value: 1,
+      random: false
+    },
+    line_linked: {
+      enable: false,
+      distance: 150,
+      color: "#00effa",
+      opacity: 0.1,
+      width: 5
+    },
+    move: {
+      enable: true,
+      speed: 1,
+      direction: "none",
+      random: false,
+      straight: false,
+      out_mode: "out",
+      bounce: false
+    }
+  },
+  interactivity: {
+    detect_on: "canvas",
+    events: {
+      onhover: {
+        enable: true,
+        mode: "repulse"
+      },
+      onclick: {
+        enable: true,
+        mode: "push"
+      },
+      resize: true
+    },
+    modes: {
+      repulse: {
+        distance: 550
+      },
+      push: {
+        particles_nb: 5
+      }
+    }
+  },
+  retina_detect: true
+});
